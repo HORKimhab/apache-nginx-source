@@ -44,3 +44,5 @@ Nginx: https://nginx.org/en
 NGINX Fundamentals: High Performance Servers from Scratch: https://www.udemy.com/course/nginx-fundamentals
 
 NGINX Tutorial for Beginners: https://www.youtube.com/watch?v=9t9Mp0BGnyI
+
+Nginx Mastery: https://www.youtube.com/watch?v=7tGhir27ZJo&list=PLOLrQ9Pn6cawvMA5JjhzoQrnKbYGYQqx1
