@@ -42,3 +42,5 @@ Apache Web Server: https://www.udemy.com/course/apache-web (**`Practice only in 
 Nginx: https://nginx.org/en
 
 NGINX Fundamentals: High Performance Servers from Scratch: https://www.udemy.com/course/nginx-fundamentals
+
+NGINX Tutorial for Beginners: https://www.youtube.com/watch?v=9t9Mp0BGnyI
